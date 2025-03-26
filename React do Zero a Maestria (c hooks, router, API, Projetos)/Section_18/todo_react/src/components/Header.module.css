@@ -1,0 +1,15 @@
+.header{
+    position: relative;
+    height: 20vh;
+    background-color: #282c34;
+    color: #61dafb;
+    text-align: center;
+    padding: 1em;
+}
+
+.header h1{
+  position: absolute;
+  left: 43vw;
+  top: 40%;
+  text-align: center;
+}
