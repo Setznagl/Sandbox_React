@@ -1,8 +1,9 @@
 <h1 align="center"> Sandbox - Aprendizado Contínuo React</h1> <br>
 
 <div align="center">
-    <img alt="React" width="40%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img alt="TypeScript" width="40%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+    <img alt="TypeScript" width="32%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img alt="NodeJS" width="32%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img alt="React" width="32%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <div><br><br>
 
 <h2>Este repositório é dedicado a armazenar as atividades e experimentos realizados durante o aprendizado contínuo em React.</h2>
